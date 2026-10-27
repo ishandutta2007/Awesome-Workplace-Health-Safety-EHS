@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Workplace-Health-Safety-EHS/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Workplace-Health-Safety-EHS?style=flat-square&logo=github&color=gold" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Workplace-Health-Safety-EHS/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Workplace-Health-Safety-EHS?style=flat-square&logo=github&color=gold" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Workplace-Health-Safety-EHS/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Workplace-Health-Safety-EHS?style=flat-square&color=blue" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Workplace-Health-Safety-EHS/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg?style=flat-square" alt="License: CC0-1.0"/></a>
   <a href="http://makeapullrequest.com"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"/></a>
@@ -36,7 +36,7 @@
 
 This repository catalogs:
 - 🏢 **Enterprise SaaS Platforms**: Commercial category leaders evaluated by market valuation, transparent starting prices, and free trial access limits.
-- 💻 **Open-Source GitHub Projects**: Community-developed, self-hosted EHS suites, state-machine permit governors, LOTO systems, and computer vision PPE detection models ranked by GitHub stars.
+- 💻 **Open-Source GitHub Projects**: Community-developed, self-hosted EHS suites, state-machine permit governors, LOTO systems, and computer vision PPE detection models ranked by GitHub_Stars.
 
 ---
 
@@ -92,49 +92,49 @@ Open-source tooling in workplace safety spans from full-featured web-based EHS p
 
 The projects below are **strictly ranked in descending order by GitHub stargazers count** :star:.
 
-1. **[Construction-Site-Safety-PPE-Detection](https://github.com/snehilsanyal/Construction-Site-Safety-PPE-Detection)** [![GitHub stars](https://img.shields.io/github/stars/snehilsanyal/Construction-Site-Safety-PPE-Detection?style=social&color=white)](https://github.com/snehilsanyal/Construction-Site-Safety-PPE-Detection/stargazers)  
+1. **[Construction-Site-Safety-PPE-Detection](https://github.com/snehilsanyal/Construction-Site-Safety-PPE-Detection)** [![GitHub_Stars](https://img.shields.io/github/stars/snehilsanyal/Construction-Site-Safety-PPE-Detection?style=social&color=white)](https://github.com/snehilsanyal/Construction-Site-Safety-PPE-Detection/stargazers)  
    *Real-time custom YOLOv8 deep learning pipeline trained specifically for construction site worker safety gear detection.* Accurately segments and flags missing hard hats, safety vests, protective gloves, and safety goggles from surveillance feeds to enforce site safety protocols.
 
-2. **[PPE-Detection-YOLO-Deep_SORT](https://github.com/AnshulSood11/PPE-Detection-YOLO-Deep_SORT)** [![GitHub stars](https://img.shields.io/github/stars/AnshulSood11/PPE-Detection-YOLO-Deep_SORT?style=social&color=white)](https://github.com/AnshulSood11/PPE-Detection-YOLO-Deep_SORT/stargazers)  
+2. **[PPE-Detection-YOLO-Deep_SORT](https://github.com/AnshulSood11/PPE-Detection-YOLO-Deep_SORT)** [![GitHub_Stars](https://img.shields.io/github/stars/AnshulSood11/PPE-Detection-YOLO-Deep_SORT?style=social&color=white)](https://github.com/AnshulSood11/PPE-Detection-YOLO-Deep_SORT/stargazers)  
    *Industrial worker tracking and PPE compliance monitor.* Combines YOLO object detection with DeepSORT multi-target tracking to monitor individual worker trajectories through hazardous factory zones, detecting PPE non-compliance in real-time.
 
-3. **[PPE_detection](https://github.com/ZijianWang-ZW/PPE_detection)** [![GitHub stars](https://img.shields.io/github/stars/ZijianWang-ZW/PPE_detection?style=social&color=white)](https://github.com/ZijianWang-ZW/PPE_detection/stargazers)  
+3. **[PPE_detection](https://github.com/ZijianWang-ZW/PPE_detection)** [![GitHub_Stars](https://img.shields.io/github/stars/ZijianWang-ZW/PPE_detection?style=social&color=white)](https://github.com/ZijianWang-ZW/PPE_detection/stargazers)  
    *High-quality industrial safety dataset and YOLO-based PPE recognition system.* Focuses on industrial edge deployment for automated gate checks and workshop entry safety verification.
 
-4. **[videopipe-fastapi](https://github.com/xuansan/videopipe-fastapi)** [![GitHub stars](https://img.shields.io/github/stars/xuansan/videopipe-fastapi?style=social&color=white)](https://github.com/xuansan/videopipe-fastapi/stargazers)  
+4. **[videopipe-fastapi](https://github.com/xuansan/videopipe-fastapi)** [![GitHub_Stars](https://img.shields.io/github/stars/xuansan/videopipe-fastapi?style=social&color=white)](https://github.com/xuansan/videopipe-fastapi/stargazers)  
    *AI video intelligent safety management platform (FastAPI backend).* General-purpose full-stack computer vision system providing perimeter zone intrusion alarms, smoke/fire alerts, and shop-floor safety violation notifications.
 
-5. **[PPE_detection_using_YOLOV8](https://github.com/Ismailjm/PPE_detection_using_YOLOV8)** [![GitHub stars](https://img.shields.io/github/stars/Ismailjm/PPE_detection_using_YOLOV8?style=social&color=white)](https://github.com/Ismailjm/PPE_detection_using_YOLOV8/stargazers)  
+5. **[PPE_detection_using_YOLOV8](https://github.com/Ismailjm/PPE_detection_using_YOLOV8)** [![GitHub_Stars](https://img.shields.io/github/stars/Ismailjm/PPE_detection_using_YOLOV8?style=social&color=white)](https://github.com/Ismailjm/PPE_detection_using_YOLOV8/stargazers)  
    *Automated real-time safety compliance detector.* Uses YOLOv8 to classify worker compliance against safety regulations across live camera inputs, logging timestamped violations for safety managers.
 
-6. **[ppe-safety-detection-ai](https://github.com/prodbykosta/ppe-safety-detection-ai)** [![GitHub stars](https://img.shields.io/github/stars/prodbykosta/ppe-safety-detection-ai?style=social&color=white)](https://github.com/prodbykosta/ppe-safety-detection-ai/stargazers)  
+6. **[ppe-safety-detection-ai](https://github.com/prodbykosta/ppe-safety-detection-ai)** [![GitHub_Stars](https://img.shields.io/github/stars/prodbykosta/ppe-safety-detection-ai?style=social&color=white)](https://github.com/prodbykosta/ppe-safety-detection-ai/stargazers)  
    *End-to-end computer vision system for workplace safety monitoring.* Detects personnel, verifies helmet and high-visibility vest compliance, maintains worker identity tracking, and generates annotated MP4 audit videos.
 
-7. **[WorkplaceSafety](https://github.com/balakreshnan/WorkplaceSafety)** [![GitHub stars](https://img.shields.io/github/stars/balakreshnan/WorkplaceSafety?style=social&color=white)](https://github.com/balakreshnan/WorkplaceSafety/stargazers)  
+7. **[WorkplaceSafety](https://github.com/balakreshnan/WorkplaceSafety)** [![GitHub_Stars](https://img.shields.io/github/stars/balakreshnan/WorkplaceSafety?style=social&color=white)](https://github.com/balakreshnan/WorkplaceSafety/stargazers)  
    *Azure Custom Vision workplace safety detection architecture.* Demonstrates hybrid cloud and edge AI inference for monitoring shop-floor protective equipment and automated safety alerting.
 
-8. **[BeaconHS](https://github.com/braedonsaunders/beaconhs)** [![GitHub stars](https://img.shields.io/github/stars/braedonsaunders/beaconhs?style=social&color=white)](https://github.com/braedonsaunders/beaconhs/stargazers)  
+8. **[BeaconHS](https://github.com/braedonsaunders/beaconhs)** [![GitHub_Stars](https://img.shields.io/github/stars/braedonsaunders/beaconhs?style=social&color=white)](https://github.com/braedonsaunders/beaconhs/stargazers)  
    *Modern open-source Health, Safety & Environment (HSE) platform tailored for industrial construction.* Built with Next.js, TypeScript, and PostgreSQL. Features a visual drag-and-drop form builder for Job Safety Analyses (JSA), incident logging, multi-tenant row-level security (RLS), and automated contractor compliance tracking.
 
-9. **[Autonomous-EHS-Management](https://github.com/SafetyMP/Autonomous-EHS-Management)** [![GitHub stars](https://img.shields.io/github/stars/SafetyMP/Autonomous-EHS-Management?style=social&color=white)](https://github.com/SafetyMP/Autonomous-EHS-Management/stargazers)  
+9. **[Autonomous-EHS-Management](https://github.com/SafetyMP/Autonomous-EHS-Management)** [![GitHub_Stars](https://img.shields.io/github/stars/SafetyMP/Autonomous-EHS-Management?style=social&color=white)](https://github.com/SafetyMP/Autonomous-EHS-Management/stargazers)  
    *Self-hosted open-source EHS incident-to-verified-CAPA console (Apache 2.0).* Operates on PostgreSQL with a closed-loop spine: **incident &rarr; linked CAPA &rarr; verified closure**. Computes OSHA Total Recordable Incident Rate (`TRIR = (recordables × 200,000) / hours worked`) with safeguards for incomplete month grids; includes demo fixtures for Root Cause Analysis (5 Whys / Ishikawa diagrams) and risk registers.
 
-10. **[osha.oira](https://github.com/euphorie/osha.oira)** [![GitHub stars](https://img.shields.io/github/stars/euphorie/osha.oira?style=social&color=white)](https://github.com/euphorie/osha.oira/stargazers)  
+10. **[osha.oira](https://github.com/euphorie/osha.oira)** [![GitHub_Stars](https://img.shields.io/github/stars/euphorie/osha.oira?style=social&color=white)](https://github.com/euphorie/osha.oira/stargazers)  
     *EU-OSHA's Online Interactive Risk Assessment tool.* Built on the open-source Euphorie web framework (Python/Plone); equips small and medium enterprises with sector-specific occupational risk questionnaires and automated action plan generators aligned with European Union workplace directives.
 
-11. **[ehs-safety-intelligence](https://github.com/nawwarah-analyst/ehs-safety-intelligence)** [![GitHub stars](https://img.shields.io/github/stars/nawwarah-analyst/ehs-safety-intelligence?style=social&color=white)](https://github.com/nawwarah-analyst/ehs-safety-intelligence/stargazers)  
+11. **[ehs-safety-intelligence](https://github.com/nawwarah-analyst/ehs-safety-intelligence)** [![GitHub_Stars](https://img.shields.io/github/stars/nawwarah-analyst/ehs-safety-intelligence?style=social&color=white)](https://github.com/nawwarah-analyst/ehs-safety-intelligence/stargazers)  
     *Enterprise EHS business intelligence and data analytics platform.* Transforms raw incident records, audit logs, and employee safety training completions into actionable operational risk dashboards using Google BigQuery and Power BI.
 
-12. **[ehsbase](https://github.com/coreaxiskkdutt/ehsbase)** [![GitHub stars](https://img.shields.io/github/stars/coreaxiskkdutt/ehsbase?style=social&color=white)](https://github.com/coreaxiskkdutt/ehsbase/stargazers)  
+12. **[ehsbase](https://github.com/coreaxiskkdutt/ehsbase)** [![GitHub_Stars](https://img.shields.io/github/stars/coreaxiskkdutt/ehsbase?style=social&color=white)](https://github.com/coreaxiskkdutt/ehsbase/stargazers)  
     *Integrated Environment, Health & Safety management system.* Features modular components for workplace risk assessment matrices, compliance document management, incident tracking, and digital permit authorization.
 
-13. **[Digital Work Permit System](https://github.com/gauravdev148/Digital_Work_Permit_System)** [![GitHub stars](https://img.shields.io/github/stars/gauravdev148/Digital_Work_Permit_System?style=social&color=white)](https://github.com/gauravdev148/Digital_Work_Permit_System/stargazers)  
+13. **[Digital Work Permit System](https://github.com/gauravdev148/Digital_Work_Permit_System)** [![GitHub_Stars](https://img.shields.io/github/stars/gauravdev148/Digital_Work_Permit_System?style=social&color=white)](https://github.com/gauravdev148/Digital_Work_Permit_System/stargazers)  
     *State-machine-based Permit-to-Work (PTW) system (Python/Flask).* Strictly enforces ISO 45001 safety gates via finite state machines. Prohibits workflow bypasses by requiring verified transitions through `SAFETY_CHECK` and `APPROVAL` before permits enter `ACTIVE` state.
 
-14. **[loto_management-system](https://github.com/Mjeed42/loto_management-system)** [![GitHub stars](https://img.shields.io/github/stars/Mjeed42/loto_management-system?style=social&color=white)](https://github.com/Mjeed42/loto_management-system/stargazers)  
+14. **[loto_management-system](https://github.com/Mjeed42/loto_management-system)** [![GitHub_Stars](https://img.shields.io/github/stars/Mjeed42/loto_management-system?style=social&color=white)](https://github.com/Mjeed42/loto_management-system/stargazers)  
     *Full-stack Lockout/Tagout (LOTO) energy isolation platform.* Implemented in React, Node.js, and MongoDB with Docker support. Enforces zero-energy state verification, lock/tag inventory assignments, and bilingual (EN/AR) role-based sign-offs.
 
-15. **[AWS-LOTO-Board](https://github.com/Davide-Rossetti-PhD/AWS-LOTO-Board)** [![GitHub stars](https://img.shields.io/github/stars/Davide-Rossetti-PhD/AWS-LOTO-Board?style=social&color=white)](https://github.com/Davide-Rossetti-PhD/AWS-LOTO-Board/stargazers)  
+15. **[AWS-LOTO-Board](https://github.com/Davide-Rossetti-PhD/AWS-LOTO-Board)** [![GitHub_Stars](https://img.shields.io/github/stars/Davide-Rossetti-PhD/AWS-LOTO-Board?style=social&color=white)](https://github.com/Davide-Rossetti-PhD/AWS-LOTO-Board/stargazers)  
     *Cloud-native serverless Lockout/Tagout digitization board.* Deploys on AWS Lambda, DynamoDB, and API Gateway at ultra-low operating cost (~$0.35/month); supports mobile QR/barcode scanning and real-time Slack incident notifications.
 
 ---
@@ -194,7 +194,7 @@ Contributions to expand and refine this ecosystem are warmly welcome!
 3. 📝 **Add or update an entry** in `README.md`:
    - Keep descriptions factual, unbiased, and technically precise.
    - For SaaS products: include verified starting prices, exact free trial/tier limits, and company scale metrics.
-   - For open-source tools: include valid GitHub star badges (`style=social&color=white`) linking to the stargazers page.
+   - For open-source tools: include valid GitHub Stars_Badges (`style=social&color=white`) linking to the stargazers page.
 4. 🧪 **Check link validity** and ensure clean Markdown formatting.
 5. 🚀 **Commit and open a Pull Request** with a concise description of your additions.
 
