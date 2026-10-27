@@ -194,7 +194,7 @@ Contributions to expand and refine this ecosystem are warmly welcome!
 3. 📝 **Add or update an entry** in `README.md`:
    - Keep descriptions factual, unbiased, and technically precise.
    - For SaaS products: include verified starting prices, exact free trial/tier limits, and company scale metrics.
-   - For open-source tools: include valid GitHub Stars_Badges (`style=social&color=white`) linking to the stargazers page.
+   - For open-source tools: include valid GitHub_Stars_Badges (`style=social&color=white`) linking to the stargazers page.
 4. 🧪 **Check link validity** and ensure clean Markdown formatting.
 5. 🚀 **Commit and open a Pull Request** with a concise description of your additions.
 
